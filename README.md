@@ -55,7 +55,7 @@ cd blackjack-game
 python blackjack.py
 ```
 
-## 🧠 Game Rules (Simplified)
+## 🧠 Game Rules
 
 - You start with **two cards**
 - The computer starts with **one visible card**
